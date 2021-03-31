@@ -7,8 +7,7 @@ Spending Score is something you assign to the customer based on your defined par
 </ul>
 
 ##  __[More information on dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)__ 
-<br>
-<h2>Outline: </h2>
+<br><h2>Outline: </h2>
 
 ### 1. [Set up](#setup)
 ### 2. [Segmentation using Spending Score and Annual Income](#seg)
